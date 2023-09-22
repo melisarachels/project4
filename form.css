@@ -1,0 +1,211 @@
+*{
+    list-style: none;
+}
+
+body{
+    padding: 0;
+    margin: 0;
+    background: url(backgroundfix.jpg);
+    font-family: 'Trebuchet MS';
+    font-size: medium;
+}
+
+.navigation{
+    height: 80px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+    background-color: blanchedalmond;
+    background-position: top;
+}
+
+.HOME-nav:hover{
+    transform: scale(1.1);
+}
+
+.PRODUCT-nav:hover{
+    transform: scale(1.1);
+}
+
+.FORM-nav:hover{
+    transform: scale(1.1);
+}
+
+.logo{
+    margin-top: 10px;
+    width: 7%;
+}
+
+.logo2{
+    width: 30%;
+    margin-left: 36%;
+}
+
+.logo2:hover{
+    transform: scale(1.1);
+}
+
+
+.form-slide{
+    width: 60%;
+    height: 1500px;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    padding-left: 40%;
+    background-color:burlywood;
+    backdrop-filter: blur(10px);
+    border-radius: 500px;
+}
+
+.name{
+    border-radius: 20px;
+    height: 15%;
+    width: 50%;
+}
+
+.email{
+    border-radius: 20px;
+    height: 15%;
+    width: 50%;
+}
+
+.phonenumber{
+    border-radius: 20px;
+    height: 15%;
+    width: 50%;
+}
+
+.dateorder{
+    border-radius: 20px;
+    height: 15%;
+    width: 50%;
+}
+
+.address{
+    border-radius: 20px;
+    height: 15%;
+    width: 50%;
+}
+
+.button{
+    position :relative;
+    width : 70px;
+    height : 30px;
+    border-radius : 4px;
+    cursor: pointer;
+    background-color: brown;
+    color:azure;
+}
+
+.button:hover{
+    transform: scale(1.1);
+}
+
+.reset{
+    position :relative;
+    width : 70px;
+    height : 30px;
+    border-radius : 4px;
+    cursor: pointer;
+    background-color: brown;
+    color:azure;
+}
+
+.reset:hover{
+    transform: scale(1.1);
+}
+
+*{
+    list-style: none;
+}
+
+.footer-content{
+    height: 400px;
+    display: flex;
+    justify-content: space-evenly;
+    width: 100%;
+    align-items: center;
+    background-color: blanchedalmond;
+    background-position: top;
+}
+
+.logofooter-foot{
+    width: 25%;
+}
+
+.foot-content{
+    display: flex;
+    width: 50%;
+    align-content: center;
+    text-align: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+
+.table-foot{
+    width: 50%;
+    margin-bottom: 15%;
+}
+
+.table-foot:hover{
+    transform: scale(1.1);
+}
+
+.cycleparking-foot{
+    width: 50%;
+}
+
+.cycleparking-foot:hover{
+    transform: scale(1.1);
+}
+
+.chair-foot{
+    width: 50%;
+}
+
+.chair-foot:hover{
+    transform: scale(1.1);
+}
+
+.planters-foot{
+    width: 50%;
+}
+
+.planters-foot:hover{
+    transform: scale(1.1);
+}
+
+.contact{
+    margin-bottom: 0%;
+    width: 25%;
+    text-align: center;
+    margin-left : 5%;
+}
+
+.instagram{
+    margin-top: 5%;
+    width: 10%;
+    text-align: center;
+    margin-left : 6%;
+}
+
+.instagram:hover{
+    transform: scale(1.1);
+}
+
+.twitter{
+    width: 10%;
+}
+
+.twitter:hover{
+    transform: scale(1.1);
+}
+
+.linkedin{
+    width: 10%;
+}
+
+.linkedin:hover{
+    transform: scale(1.1);
+}
